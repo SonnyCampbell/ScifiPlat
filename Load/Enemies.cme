@@ -1,0 +1,6 @@
+﻿Load=[Level1]
+
+Load=[Image][Position][Frames][MoveSpeed][Range]
+[skeleton_move][400,110][5,4][80][100]
+
+EndLoad=[Level1]
